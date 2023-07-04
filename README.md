@@ -1,1 +1,1 @@
-# i-am-studying.ru
+# i-am-studying.github.io
